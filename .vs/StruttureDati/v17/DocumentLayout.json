@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\davide.genito\\Downloads\\StruttureDati\\StruttureDati\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2532CE92-884B-4305-A363-B19935079DED}|ConsoleStruttureDati\\ConsoleStruttureDati.csproj|c:\\users\\davide.genito\\downloads\\strutturedati\\strutturedati\\consolestrutturedati\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2532CE92-884B-4305-A363-B19935079DED}|ConsoleStruttureDati\\ConsoleStruttureDati.csproj|solutionrelative:consolestrutturedati\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F711983-0C5A-427F-B5D4-E6EC32FC1326}|StruttureDati\\StruttureDati.csproj|c:\\users\\davide.genito\\downloads\\strutturedati\\strutturedati\\strutturedati\\intarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F711983-0C5A-427F-B5D4-E6EC32FC1326}|StruttureDati\\StruttureDati.csproj|solutionrelative:strutturedati\\intarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2532CE92-884B-4305-A363-B19935079DED}|ConsoleStruttureDati\\ConsoleStruttureDati.csproj|c:\\users\\davide.genito\\downloads\\strutturedati\\strutturedati\\consolestrutturedati\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2532CE92-884B-4305-A363-B19935079DED}|ConsoleStruttureDati\\ConsoleStruttureDati.csproj|solutionrelative:consolestrutturedati\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\davide.genito\\Downloads\\StruttureDati\\StruttureDati\\ConsoleStruttureDati\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleStruttureDati\\Program.cs",
               "ToolTip": "C:\\Users\\davide.genito\\Downloads\\StruttureDati\\StruttureDati\\ConsoleStruttureDati\\Program.cs",
               "RelativeToolTip": "ConsoleStruttureDati\\Program.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAgwFIAAAAVAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwFIAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T07:33:09.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T07:33:09.012Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "IntArray.cs",
               "DocumentMoniker": "C:\\Users\\davide.genito\\Downloads\\StruttureDati\\StruttureDati\\StruttureDati\\IntArray.cs",
               "RelativeDocumentMoniker": "StruttureDati\\IntArray.cs",
               "ToolTip": "C:\\Users\\davide.genito\\Downloads\\StruttureDati\\StruttureDati\\StruttureDati\\IntArray.cs",
               "RelativeToolTip": "StruttureDati\\IntArray.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAkwH8AAAAIAAAA",
+              "ViewState": "AQIAAFIAAAAAAAAAAADwv2gAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T07:33:09.036Z",
               "EditorCaption": ""
